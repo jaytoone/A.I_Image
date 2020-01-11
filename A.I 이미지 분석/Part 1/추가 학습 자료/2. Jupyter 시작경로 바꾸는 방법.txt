@@ -1,0 +1,8 @@
+jupyter 시작경로 바꾸기
+
+- C:\Anaconda3\Scripts 에서 cmd 띄우고 
+- jupyter notebook --generate-config 입력
+- (로그 내용에 따라 or 기본으로) C:\Users\Administrator.MSDN-1412181736\.jupyter 에 들어가서 
+- jupyter_notebook_config.py 파일 수정
+- NotebookApp.notebook_dir 로 검색한 후
+- 주석 처리 삭제하고 원하는 디렉토리를 '' 사이에 입력하기

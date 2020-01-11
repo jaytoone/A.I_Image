@@ -1,0 +1,25 @@
+﻿Web scraping basic & Text data processing summary
+
+
+[Web scraping basic]
+
+0. URL 분석 (패턴 존재 여부, query 종류) ex. https://alldic.daum.net/search.do?q=happiness
+1. URL 구성 (str) <- 추후 자동화 고려
+2. HTTP Response 얻기 : urlopen(URL) or request.get(URL).content
+3. HTML 얻기 (-> soup) : BeautifulSoup(HTTP Response, 'html.parser')
+4. Tag 꺼내기 : soup.find or soup.find_all (<- 태그 이름, Attr 이름, Attr 값 지정)
+   -> find : 1개의 tag (조건이 동일한 tag가 여러개일 경우에는 첫번째 tag)
+   -> find_all : 여러개의 tag를 찾아서 ResultSet(==list) -> for문으로 tag 꺼내 5번 항목 진행
+5. Tag로부터 텍스트 혹은 Attribute values 꺼내기 : Tag.get_text() or Tag.attrs
+
+
+[Text data processing]
+
+0) str 준비
+1) Tokenize (형태소 분석)
+2) POS Tagging (Part-of-speech, 품사 표시)
+3) Stopwords 제거 (불용어 제거) 
+4) 단어 갯수 카운팅 & 단어 사전 생성
+5) 시각화 작업
+(+ 머신러닝/딥러닝 모델 적용)
+

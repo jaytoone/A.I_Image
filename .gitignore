@@ -1,7 +1,9 @@
 # Folder
-/Semi_Project 1 A.I Trend/venv/
-/temp/dataset/*
+Semi_Project 1 A.I Trend/venv/
+Semi_Project 4 Find Waldo/dataset/
+
 
 # File
-/Semi_Project 3 ML & DL/fer2013.csv
-/Semi_Project 3 ML & DL/weights_min_loss.hdf5
+Semi_Project 3 ML & DL/fer2013.csv
+Semi_Project 3 ML & DL/weights_min_loss.hdf5
+Semi_Project 4 Find Waldo/*.zip

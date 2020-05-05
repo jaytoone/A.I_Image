@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="596ec210-c11b-4b1f-bffe-712be7da996b" name="Default Changelist" comment="" />
+    <list default="true" id="596ec210-c11b-4b1f-bffe-712be7da996b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenCV/Day 2/Open CV _ 이미지 프로세싱(2)-Copy1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenCV/Day 2/Open CV _ 이미지 프로세싱(2)-Copy1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenCV/Day 2/Open CV _ 이미지 프로세싱(2)_0107.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenCV/Day 2/Open CV _ 이미지 프로세싱(2)_0107.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenCV/Day 2/open cv_변환, 필터 (3).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenCV/Day 2/open cv_변환, 필터 (3).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenCV/Day 3/Open CV_0108(강의)-Copy2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenCV/Day 3/Open CV_0108(강의)-Copy2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenCV/Day 3/Open CV_0108(실습)-Copy1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenCV/Day 3/Open CV_0108(실습)-Copy1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenCV/Day 4/Open CV(0109).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenCV/Day 4/Open CV(0109).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenCV/Day 4/Open CV_0108(강의).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenCV/Day 4/Open CV_0108(강의).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenCV/Day 5/0110 (1).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenCV/Day 5/0110 (1).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenCV/Day 5/4장_예제-Copy1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenCV/Day 5/4장_예제-Copy1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenCV/Day 5/4장_예제.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenCV/Day 5/4장_예제.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semi_Project 3 ML &amp; DL/Image Classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Semi_Project 3 ML &amp; DL/Image Classification.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semi_Project 4 Find Waldo/train.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Semi_Project 4 Find Waldo/train.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +29,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1V3XuTVzQVyiYG9IKBd18MqGlYo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -23,6 +41,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Lib/site-packages/pybithumb" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -151,49 +170,9 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="418" y="311" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576570548990">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1180" y="275" key="FileChooserDialogImpl" timestamp="1587650655824">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="418" y="311" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576570548990" />
-    <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1576563209499">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576563209499" />
-    <state width="1899" height="329" key="GridCell.Tab.0.bottom" timestamp="1576636959095">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="329" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576636959095" />
-    <state width="1899" height="329" key="GridCell.Tab.0.center" timestamp="1576636959095">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="329" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576636959095" />
-    <state width="1899" height="329" key="GridCell.Tab.0.left" timestamp="1576636959095">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="329" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576636959095" />
-    <state width="1899" height="329" key="GridCell.Tab.0.right" timestamp="1576636959095">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="329" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576636959095" />
-    <state x="361" y="86" key="SettingsEditor" timestamp="1576636543195">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="361" y="86" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576636543195" />
-    <state x="657" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1576540199941">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="657" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576540199941" />
-    <state x="1237" y="147" width="604" height="512" key="dock-window-1" timestamp="1576560115278">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1237" y="147" width="604" height="512" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1576560115278" />
-    <state x="345" y="60" width="745" height="897" key="find.popup" timestamp="1576563156774">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="345" y="60" width="745" height="897" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576563156774" />
-    <state x="601" y="246" width="700" height="530" key="recent.locations.popup" timestamp="1576629317451">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="601" y="246" width="700" height="530" key="recent.locations.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576629317451" />
+    <state x="-1180" y="275" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040/1920.0.1366.728@-1920.0.1920.1040" timestamp="1587650655824" />
   </component>
 </project>
